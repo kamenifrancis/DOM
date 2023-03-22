@@ -1,0 +1,56 @@
+.tete{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin: 0cm;
+}
+.titre{
+    display: flex;
+    border-style: inset;
+    border-radius: 10px;
+    background-color: rgb(249, 149, 19);
+}
+.cherche{
+    margin: 1cm;
+}
+
+.connecte{
+    display: flex;
+}
+.aide{
+    display: flex;
+}
+.panier{
+    display: flex;
+}
+.camer{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+    
+   
+}
+.fa-solid.fa-basket-shopping{
+    color: rgb(220, 209, 8);
+}
+.fa-solid.fa-user{
+    color: rgb(221, 35, 11);
+} 
+.bttnmoin{
+    width: 40px;
+}
+.bttnplus{
+    width: 40px;
+}
+.contenu{
+display: flex; 
+margin: 3cm;
+
+    
+}
+.apropos{
+    padding-left: 2cm;
+}
+
+    
+    
+
